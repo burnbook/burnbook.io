@@ -1,6 +1,6 @@
-## Hello World
+## Allow us to introduce ourselves
 
-Hello, and welcome to an open-source and anonymous self-publishing platform for the airing of the VC-backed software industry's dirty laundry.  We do what we can to help whistleblowers, aggrieved parties, abused employees, and deceived investors find their voice 
+Hello, world, and welcome to the Burn Book.  We are trying to build an open-source, anonymous self-publishing platform for the airing of the VC-backed software industry's dirty laundry.  We do what we can to help whistleblowers, aggrieved parties, abused employees, and deceived investors find their voice and amplify the voices that are structurally silenced in the software industry as currently conceived.
 
 ## The Ethos of Open Source Intelligence (#osint)
 
@@ -14,4 +14,6 @@ One crucial distinction here is that no only must journalistic standards be conf
 
 Everything on this site is edited anonymously by a small but hopefully soon larger crew of volunteers that try to bring journalistic standards of evidence and accuracy to what might otherwise be a lurid collection of rumors and one-sided interpretations. Wherever possible, we try to add corrections to pieces over time as more or better intell arises, and here's the kicker-- you can too.  Publishing on github means that any typos or corrections that come with links, receipts, or convincing counterarguments can be accepted from anonymous github "sockpuppet" accounts.  
 
-(Specific instructions for the in-git-xperienced coming soon-- better yet, someone else pull it in!).
+You can use the [editor function on GitHub](https://github.com/burnbook/burnbook.io/edit/master/index.md) to edit the page you're seeing now directly. Links directly to the editor of each page will be displayed at the bottom of all posts.
+
+(A tutorial on setting up anonymous githubs or using our SecureDrop feature for the inexperienced are coming soon-- better yet, do you wanna write it?).
